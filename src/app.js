@@ -1,4 +1,5 @@
 import API from "./api";
+import './styles/style.css';
 
 document.addEventListener("DOMContentLoaded", async () => {
   const dataContainer = document.getElementById("data-container");
